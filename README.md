@@ -32,11 +32,11 @@ $(document).ready(function () {
 这个链接用 runoob 作为网址变量 [Runoob][runoob]
 然后在文档的结尾为变量赋值（网址）
 
-
-
-
+fasfasfsa
+fasfsa
+fasfsa
   [1]: http://www.google.com/
   [runoob]: http://www.runoob.com/
-  
+  fasfasdfs
   
   
