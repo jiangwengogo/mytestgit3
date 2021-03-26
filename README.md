@@ -20,3 +20,10 @@ ___粗斜体文本___
     > 菜鸟教程
     > 学的不仅是技术更是梦想
 * 第二项
+
+
+```javascript
+$(document).ready(function () {
+    alert('RUNOOB');
+});
+```
